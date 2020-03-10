@@ -1,7 +1,7 @@
 # GitPractice
 用來練習 Git 指令的專案
 
-# Title
+# Purpose
 這個用來練習 Git 指令的專案。
 
 # Reference
